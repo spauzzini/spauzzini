@@ -1,5 +1,11 @@
 # 💫 About Me:
-💡 ✨
+Hi there! 👋 I'm Paula, Computer Engineering student.
+
+I consider myself a curious mind, always eager to discover new horizons in the vast world of technology. Ever since I delved into the realm of programming, I've been captivated by its ability to create innovative solutions and transform the way we interact with technology in our daily lives.
+
+Currently, I'm focusing my efforts on Front-end Development. Moreover, I consider myself an open-source enthusiast and am always open to collaborating on new projects and exploring innovative ideas. I firmly believe that collaboration is key to success in technology, and I'm excited about the learning opportunities that arise from working as a team.
+
+If you have any ideas or projects in mind that we can collaborate on, feel free to reach out to me! 🤝 I'm eager to learn and grow alongside the tech community and beyond.✨
 
 
 ## 🌐 Socials:
